@@ -1,0 +1,16 @@
+{
+  "name": "random-data-generator-maria",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["random", "data", "generator", "testing"],
+  "author": "Maria Andreeva",
+  "license": "MIT",
+  "description": "A library to generate random data for testing and development.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/вашеимя/random-data-generator"
+}
+}
